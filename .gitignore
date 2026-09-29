@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Coinbase API credentials (never commit real keys)
+config.json
+cdp_api_key*.json
+
+# Downloaded market data
+data/
